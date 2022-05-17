@@ -1,0 +1,17 @@
+{
+  "name": "hedera-notification-service-smart-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.13.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "web3": "^1.7.3"
+  }
+}
